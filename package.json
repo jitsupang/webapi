@@ -1,0 +1,9 @@
+{
+    "name": "webtech-api",
+    "version": "1.0.0",
+    "description": "58160060 Jitsupang Changthong",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
